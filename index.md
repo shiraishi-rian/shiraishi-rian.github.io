@@ -10,7 +10,7 @@ My GitHub page is http://github.com/shiraishi-rian.
 
 * Lab 7
 
-    Lab 7 part 1 was a favorite because it was interesting to see how “if” statements can limit the day and time you want in order for the program to run. I also learned how "&&" and "||" are used in “if” statements. It was also interesting to see that booleans were used in each function to determine which statements were true or false.
+    Lab 7 part 1 was a favorite because it was interesting to see how “if” statements can limit the day and time you want in order for the program to run. I also learned how "and" and "or" are used in “if” statements. It was also interesting to see that booleans were used in each function to determine which statements were true or false.
 
 * Lab 8
 
